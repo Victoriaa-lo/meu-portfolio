@@ -1,0 +1,18 @@
+/* css externo*/
+
+body {
+    background:rgba(0, 0, 0, 0.923) ;/* cor fundo */
+    color: rgb(246, 210, 210);/* cor textos */
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', 
+}
+
+a{
+    color:  rgb(246, 210, 210);
+    text-decoration: none;
+
+}
+
+
+ul{
+    list-style: none;
+}
